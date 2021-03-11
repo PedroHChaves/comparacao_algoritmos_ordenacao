@@ -1,0 +1,30 @@
+-Analise: Busca Sequencial x Busca Binaria + Bubble Sort: 
+Quantidade de chaves buscadas: 100000
+Tempo (s) Busca Sequencial: 80.355
+Tempo (s) Busca Binaria: 339.296
+
+-Analise: Busca Sequencial x Busca Binaria + Insertion Sort: 
+Quantidade de chaves buscadas: 100000
+Tempo (s) Busca Sequencial: 80.355
+Tempo (s) Busca Binaria: 101.395
+
+-Analise: Busca Sequencial x Busca Binaria + Selection Sort: 
+Quantidade de chaves buscadas: 100000
+Tempo (s) Busca Sequencial: 80.355
+Tempo (s) Busca Binaria: 76.710
+
+-Analise: Busca Sequencial x Busca Binaria + Shell Sort: 
+Quantidade de chaves buscadas: 100000
+Tempo (s) Busca Sequencial: 80.355
+Tempo (s) Busca Binaria: 0.155
+
+-Analise: Busca Sequencial x Busca Binaria + Merge Sort: 
+Quantidade de chaves buscadas: 100000
+Tempo (s) Busca Sequencial: 80.355
+Tempo (s) Busca Binaria: 0.298
+
+-Analise: Busca Sequencial x Busca Binaria + Heap Sort: 
+Quantidade de chaves buscadas: 100000
+Tempo (s) Busca Sequencial: 80.355
+Tempo (s) Busca Binaria: 0.154
+
